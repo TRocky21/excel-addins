@@ -62,3 +62,6 @@ SelectBlanks:
 
 UnhideSheets:
 	If any sheets in the workbook are hidden, unhide them.
+
+UnitConverter:
+	Convert between units.
