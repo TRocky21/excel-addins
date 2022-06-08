@@ -40,6 +40,9 @@ FindReplace:
 	Adds ability to search within selection, sheet, or workbook.
 	Adds ability to search in formulas only, values only, or formulas and values.
 
+FormulasToValues:
+	Convert selected cell formulas to values.
+
 GoHome:
 	If the top left cell is selected, select the first sheet in the workbook.
 	Else, select the top left cell in the current sheet.
