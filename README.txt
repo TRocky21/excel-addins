@@ -1,6 +1,6 @@
 Excel Add-Ins
 Written by Torin Rockwell
-Version 20220608
+Version 20220609
 https://github.com/TRocky21/excel-addins
 
 
@@ -10,6 +10,10 @@ AddTemplateSheet:
 AutofitColumns:
 	If one cell is selected, autofit all columns in the active worksheet.
 	If multiple cells are selected, autofit all columns in the selected range.
+
+BackupWorkbook:
+	Saves a timestamped copy of the workbook to "Documents/Excel Backups" folder.
+	Creates folder if it does not exist.
 
 BatchLink:
 	If a cell value in the current selection matches a sheet name, link the cell to A1 in the corresponding sheet.
