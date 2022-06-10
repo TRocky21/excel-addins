@@ -70,6 +70,11 @@ ResetSelections:
 SelectBlanks:
 	Select all blank cells within selection.
 
+TravelInformation:
+	Creates two Excel formula functions, TRAVELTIME and TRAVELDISTANCE
+	TRAVELTIME takes two arguments, origin and destination, and returns the travel time in seconds.
+	TRAVELDISTANCE takes two arguments, origin and destination, and returns the travel distance in meters.
+
 UnhideSheets:
 	If any sheets in the workbook are hidden, unhide them.
 
