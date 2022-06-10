@@ -55,6 +55,9 @@ IfError:
 	If cells contain formulas and do not have an IFERROR statement, wraps them in IFERROR with specified text.
 	Can look within selection, sheet, or workbook.
 
+PasswordGenerator:
+	Generate a password and copy it to the clipboard.
+
 PasteImage:
 	Shortcut to paste from clipboard as an image.
 
