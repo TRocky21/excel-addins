@@ -1,6 +1,6 @@
 Excel Add-Ins
 Written by Torin Rockwell
-Version 20220609
+Version 20220614
 https://github.com/TRocky21/excel-addins
 
 
@@ -44,6 +44,9 @@ FindReplace:
 	Adds ability to search within selection, sheet, or workbook.
 	Adds ability to search in formulas only, values only, or formulas and values.
 
+FlipRange:
+	If selection contains only one row or column, flips the values in that row or column.
+
 FormulasToValues:
 	Convert selected cell formulas to values.
 
@@ -69,6 +72,9 @@ ResetSelections:
 
 SelectBlanks:
 	Select all blank cells within selection.
+
+TransposeRange:
+	Switches the rows and columns of the selection.
 
 TravelInformation:
 	Creates two Excel formula functions, TRAVELTIME and TRAVELDISTANCE
