@@ -73,6 +73,9 @@ ResetSelections:
 SelectBlanks:
 	Select all blank cells within selection.
 
+SwapValues:
+	Swaps the values of any two selected cells.
+
 TransposeRange:
 	Switches the rows and columns of the selection.
 
