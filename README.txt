@@ -39,6 +39,10 @@ CreateTable:
 CycleCase:
 	Cycles text case between lower, proper, and upper based on the first cell in the selected region.
 
+DefineWord:
+	Gets the definition of the word in the selected cell.
+	Worksheet function "=DEFINE(word as String)" will return the definition of a word.
+
 FindReplace:
 	Replacement for built-in Find and Replace function.
 	Adds ability to search within selection, sheet, or workbook.
