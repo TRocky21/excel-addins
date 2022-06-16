@@ -75,6 +75,7 @@ SelectBlanks:
 
 SwapValues:
 	Swaps the values of any two selected cells.
+	If two ranges of equal size are selected, swaps their values.
 
 TransposeRange:
 	Switches the rows and columns of the selection.
