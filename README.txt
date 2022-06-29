@@ -24,6 +24,9 @@ CellLink:
 CenterAcross:
 	Applies "Center Across Selection" formatting to selected cells.
 
+ChangeCase:
+	Allows user to change case of selection to lower, sentence, proper, or upper.
+
 ContentsLinks:
 	Starting in the top cell of the selection, creates links to cell A1 of every sheet in the workbook.
 	Does not work if cells in multiple columns are selected.
