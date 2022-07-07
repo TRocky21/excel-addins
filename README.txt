@@ -42,6 +42,9 @@ CreateTable:
 CycleCase:
 	Cycles text case between lower, proper, and upper based on the first cell in the selected region.
 
+DatePicker:
+	Opens a date picker window to allow the user to put a chosen date in the selected cell.
+
 DefineWord:
 	Gets the definition of the word in the selected cell.
 	Worksheet function "=DEFINE(word as String)" will return the definition of a word.
