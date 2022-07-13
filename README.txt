@@ -1,6 +1,6 @@
 Excel Add-Ins
 Written by Torin Rockwell
-Version 20220614
+Version 20220713
 https://github.com/TRocky21/excel-addins
 
 
@@ -34,6 +34,9 @@ ContentsLinks:
 CopyPaste:
 	If one region is selected, copies the row of cells immediately above and pastes them into selection.
 	If multiple regions are selected, copies the first selected region and pastes it into subsequent regions.
+
+CountErrors:
+	Loop through each sheet and display count of errors in active workbook.
 
 CreateTable:
 	If current selection does not intersect with another table, creates a table.
@@ -82,6 +85,10 @@ ResetSelections:
 
 SelectBlanks:
 	Select all blank cells within selection.
+
+SelectionSummary:
+	Provides a summary of the cells in the selected range.
+	Count, unique values, sum, average, etc.
 
 SwapValues:
 	Swaps the values of any two selected cells.
