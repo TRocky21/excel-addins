@@ -89,6 +89,7 @@ SelectBlanks:
 SelectionSummary:
 	Provides a summary of the cells in the selected range.
 	Count, unique values, sum, average, etc.
+	Second tab provides statistical analysis of range, e.g. median, mode, skew, kurtosis, confidence, etc.
 
 SwapValues:
 	Swaps the values of any two selected cells.
