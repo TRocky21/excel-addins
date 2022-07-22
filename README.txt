@@ -108,3 +108,9 @@ UnhideSheets:
 
 UnitConverter:
 	Convert between units.
+
+UserDefinedFunctions:
+	Compiles miscellaneous UDFs.
+	ISEMAIL - validate email addresses
+	TEXTSPLIT - split text string by a delimiter
+	COUNTUNIQUE - return number of unique values in a range.
