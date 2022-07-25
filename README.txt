@@ -71,6 +71,9 @@ IfError:
 	If cells contain formulas and do not have an IFERROR statement, wraps them in IFERROR with specified text.
 	Can look within selection, sheet, or workbook.
 
+MoveShapeToRange:
+	Allows user to move a shape to a selected range and set its dimensions equal to those of the range.
+
 PasswordGenerator:
 	Generate a password and copy it to the clipboard.
 
