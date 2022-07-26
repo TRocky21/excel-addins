@@ -114,6 +114,9 @@ UnitConverter:
 
 UserDefinedFunctions:
 	Compiles miscellaneous UDFs.
-	ISEMAIL - validate email addresses
-	TEXTSPLIT - split text string by a delimiter
+	ISEMAIL - validate email addresses.
+	TEXTSPLIT - split text string by a delimiter.
 	COUNTUNIQUE - return number of unique values in a range.
+	REVERSE - reverses a given string.
+	DATE_ADD - access VBA DateAdd function in Excel.
+	ROUNDSIGFIGS - round a given number to specified significant figures.
