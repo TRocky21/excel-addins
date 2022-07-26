@@ -120,3 +120,4 @@ UserDefinedFunctions:
 	REVERSE - reverses a given string.
 	DATE_ADD - access VBA DateAdd function in Excel.
 	ROUNDSIGFIGS - round a given number to specified significant figures.
+	ISPRIME - determine if a given number is prime.
