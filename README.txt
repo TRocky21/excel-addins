@@ -48,6 +48,9 @@ CycleCase:
 DatePicker:
 	Opens a date picker window to allow the user to put a chosen date in the selected cell.
 
+DecodeFastenerNumber:
+	Decode a fastener part number to determine its characteristics and specifications.
+
 DefineWord:
 	Gets the definition of the word in the selected cell.
 	Worksheet function "=DEFINE(word as String)" will return the definition of a word.
@@ -62,6 +65,9 @@ FlipRange:
 
 FormulasToValues:
 	Convert selected cell formulas to values.
+
+GenerateFastenerNumber:
+	Generate a fastener part number based on its characteristics and specifications.
 
 GoHome:
 	If the top left cell is selected, select the first sheet in the workbook.
